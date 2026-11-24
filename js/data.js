@@ -12,6 +12,18 @@
 window.SITE_DATA = {
   "events": [
     {
+      "slug": "2026-genesis-baroque-cantatas-for-christmas",
+      "date": "2026-12-12",
+      "dateText": "Sat 12 Dec, 5pm • Sun 13 Dec, 2pm • Mon 14 Dec, 6pm",
+      "title": "Genesis Baroque: Cantatas for Christmas",
+      "location": "Christ Church, Castlemaine • St John’s Anglican Church, Flinders • Primrose Potter Salon, Melbourne Recital Centre",
+      "description": "Internationally renowned French soprano Myriam Arbouz joins Genesis Baroque for a festive program featuring Graupner’s Angst und Jammer and Bach’s Jauchzet Gott in allen Landen, alongside Michel Corrette’s instrumental Christmas carol settings. Josephine Vains performs on baroque cello.",
+      "image": null,
+      "book": "https://www.genesisbaroque.com.au/event/cantatas-for-christmas/",
+      "project": null
+    },
+
+    {
       "slug": "2026-12-cellos",
       "date": "2026-11-27",
       "dateText": "7PM, 27 November, 2026",
