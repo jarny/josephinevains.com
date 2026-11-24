@@ -1,0 +1,9 @@
+# Local tool settings
+.claude/
+.vscode/
+.netlify/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store

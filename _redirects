@@ -1,0 +1,6 @@
+# Send old Webflow addresses to the new pages (read by Netlify).
+/about           /about.html              301
+/teaching        /teaching.html           301
+/events          /events.html             301
+/event/:slug     /event.html?e=:slug      301
+/project/:slug   /project.html?p=:slug    301
